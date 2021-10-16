@@ -16,7 +16,7 @@ He
 A boy who loves super computer more than super cars, day dream at nights and sometime codes too.😉😉
 
 ### 👯 My other interests
-Currently i'm working in a non-profit organization[website](https://www.foodtechies.fi/) as a Web Developer.
+Currently i'm working in a non-profit organization [website](https://www.foodtechies.fi/) as a Web Developer.
 I pulished many alexa skills that is live now and i'm community member of alexa developers community chandigarh.
 I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
